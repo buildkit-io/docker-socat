@@ -1,4 +1,4 @@
-FROM alpine:3.1
+FROM alpine:latest
 
 RUN apk --update add socat
 
